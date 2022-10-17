@@ -1,1 +1,8 @@
-/* styles go here */
+.group-vertical-distance {
+  margin-bottom: 20px;
+}
+
+.form__field {
+  display: block;
+  margin-bottom: 10px;
+}
