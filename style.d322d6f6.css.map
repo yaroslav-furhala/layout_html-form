@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,yBACE,kBAAmB,CACnB,gBACF,CAEA,aACE,aAAc,CACd,kBACF,CAEA,OACE,SACF","file":"style.d322d6f6.css","sourceRoot":"..\\src","sourcesContent":[".group-vertical-distance {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.form__field {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.heigh {\n  padding: 0;\n}\n"]}
